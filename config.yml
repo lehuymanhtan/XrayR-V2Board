@@ -7,7 +7,7 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "v2board.free4gvpn.tk" # 修改这里
+      ApiHost: "https://v2board.free4gvpn.tk" # 修改这里
       ApiKey: "1234567890qwertyuiop" # 修改这里
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
